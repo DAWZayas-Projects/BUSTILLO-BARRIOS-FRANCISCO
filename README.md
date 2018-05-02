@@ -1,44 +1,41 @@
-# Programming a Swift Video Game
+# DEVELOPING GAMES WITH UNITY
 
-By: Francisco Bustillo
--------------
+----
 
-Project to develop: 
--------------
 
-Video game programmed in Swift Language
+### INTRODUCTION
 
-Aims: 
--------------
-The aim of this project is to learn to develop a casual videogame in Swift programmed through a MAC OS virtual machine . 
+Back in the day, game development wasn't for everyone. You needed your own game engine, it required a strong math knowledge, you had to choose the platform that would run your game, and it was very expensive to release a game. With the release of Unity in 2005, however, everything changed. 
 
-Requirements
--------------
 
-The video game should be able to manage basic mechanics and functionalities of 2D videogames such as basic player character movements (walk, jump, attack...), interaction with environment elements (like objects and NPC,non player characters, as enemies) and show other elements like time and scores.
+Unity is a game engine that tries to standarize game development by providing a professional tool for independent game developers in an accessible way. Unity offers a lot of advantadges:
 
-In addition the video game should include animations and sounds.
+* It's free.
 
-On the other hand this video game should be able to register and show High Scores when the game is over.
+* It's cross-platform. So, once your game is finished, you can export it to many platforms such as Windows, IOS, Linux, game systems and more.
 
-Finally this video game should be deployed on an iPhone.
+* It's powerful. It's not just for indie games. Unity has been used in AAA games such as Hearthstone, Pokémon Go and Mario Run.
+
+* Live debugging. You can run your videogame instantly, while at the same time you can change parameters or modify game objects.
+
+* Asset Store. Unity provides an internal store where you can buy (or download for free) any resources that you need.
+
+
+
+
+
+### LANGUAGE
+
+The programming language that will be used is C#.
+
+
+
+### PROJECT
+
+This project consists of the development of three basic videogames that will work from a navigator.
  
-Basic Functionality: 
--------------
-
->- **User Interface.**
-<br>
->- **Basic Player Character Movement** 
-<br>
->- **Interaction Between Character and Environment** 
-<br>
->- **Basic Non Player Movement** 
-<br>
->- **Add Animations and Sounds** 
-<br>
->- **Time and High Scores System** 
-<br>
->- **IOS Deployment** 
-<br>
-
-
+* 2D Videogame.
+ 
+* 3D Videogame.
+ 
+* 3D VR Videogame.
